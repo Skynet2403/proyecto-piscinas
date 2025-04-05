@@ -184,7 +184,7 @@ export default function Home() {
       <header className="bg-[#1e3d59] text-white">
         <div className="container mx-auto px-4 py-6">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl md:text-3xl font-bold">Albercas Premium</h1>
+            <h1 className="text-2xl md:text-3xl font-bold">Albercas MAR</h1>
             <nav className="hidden md:flex space-x-6">
               <a href="#inicio" className="hover:text-[#63c5da] transition-colors">
                 Inicio
@@ -424,7 +424,7 @@ export default function Home() {
                   </div>
                   <div className="flex items-center">
                     <MessageCircle className="w-5 h-5 text-[#2ec4b6] mr-3" />
-                    <span className="text-gray-700">info@albercaspremium.com</span>
+                    <span className="text-gray-700">info@albercasmar.com</span>
                   </div>
                 </div>
                 <div>
@@ -464,7 +464,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Albercas Premium</h3>
+              <h3 className="text-xl font-bold mb-4">Albercas MAR</h3>
               <p className="text-gray-300">
                 Transformamos espacios en oasis de relajación y diversión con las mejores albercas del mercado.
               </p>
@@ -509,7 +509,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-            <p>© {new Date().getFullYear()} Albercas Premium. Todos los derechos reservados.</p>
+            <p>© {new Date().getFullYear()} Albercas MAR. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
